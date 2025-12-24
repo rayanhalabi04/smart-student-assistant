@@ -76,6 +76,6 @@ Use:
 
 Feel free to reach out if you want to collaborate or improve this project!
 
-LinkedIn: https://www.linkedin.com/in/rayan-halabi
+LinkedIn: www.linkedin.com/in/rayan-halabi-aa0765251
 
 GitHub: https://github.com/rayanhalabi04
