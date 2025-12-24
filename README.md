@@ -1,20 +1,31 @@
 🧠 Smart Assistant for Students
+
 A personalized AI study assistant that helps students understand their lecture slides faster.
+
 Upload your slides → ask questions → get summaries → generate quizzes → build study plans.
+
 Learning shouldn’t be painful… so I built the tool I always wished I had during university 🎓.
 
 🚀 Live Demo
 🔗 Try the app here:
+
 https://smart-student-assistant-9fwarfjgszgq3hhu8mntqo.streamlit.app
 (Requires a free Gemini API Key — instructions below)
 
 📌 Why I built this
+
 During my degree, I struggled with long PDF lectures, confusing explanations, and last-minute exams.
+
 AI tools were helpful… but they hallucinated or answered with information not inside my slides.
+
 So I built a personalized RAG-based study assistant that:
+
 ✔️ Reads only your PDF
+
 ✔️ Extracts the correct content
+
 ✔️ Never hallucinates
+
 ✔️ Generates helpful summaries, quizzes, and study plans
 ✔️ Works like a personal “smart notebook”
 
@@ -40,19 +51,31 @@ PyPDF / pypdf	PDF text extraction
 RAG (Retrieval Augmented Generation)	Ensures answers come only from user PDFs
 
 🔑 How Users Can Use the App (Live Version)
+
 Open the deployed app ( https://smart-student-assistant-9fwarfjgszgq3hhu8mntqo.streamlit.app ).
+
 Paste your Gemini API Key into the sidebar.
+
 Get a free key here: https://ai.google.dev
+
 Upload your lecture PDF.
+
 Click Process Slides.
+
 Use:
+
 ❓ Q&A
+
 📝 Summary
+
 🧠 Quiz
+
 📅 Study Plan
 
 💬 Contact
 
 Feel free to reach out if you want to collaborate or improve this project!
+
 LinkedIn: https://www.linkedin.com/in/rayan-halabi
+
 GitHub: https://github.com/rayanhalabi04
