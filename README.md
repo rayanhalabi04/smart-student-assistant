@@ -74,7 +74,6 @@ Use:
 
 💬 Contact
 
-Feel free to reach out if you want to collaborate or improve this project!
 
 LinkedIn: www.linkedin.com/in/rayan-halabi-aa0765251
 
